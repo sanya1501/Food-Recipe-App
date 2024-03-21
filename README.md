@@ -1,0 +1,1 @@
+This React project is a recipe search engine that lets you search by ingredients you have at home. Just enter ingredients into recipe search engine and It'll instantly return a list of tasty recipes for you to enjoy.
